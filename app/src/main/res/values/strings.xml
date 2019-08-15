@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Algorithms</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sorting">Sorting</string>
+    <string name="enter_text">Enter</string>
+    <string name="add_text">Add</string>
+    <string name="searching">Searching</string>
+    <string name="enter_text_k">K</string>
+    <string name="search">search</string>
+    <string name="no_number_added">0 Numbers Added</string>
+    <string name="armstrong">Armstrong</string>
+    <string name="check">Check</string>
+    <string name="no_number">No Number Provided</string>
+</resources>
